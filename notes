@@ -1,0 +1,5 @@
+#git init >> initialise the git repo on this directory
+#git add . >> save everything
+#git commit -m "description" >> this saves the changes that 
+                                we added in last step
+
