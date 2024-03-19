@@ -2,4 +2,5 @@
 #git add . >> save everything
 #git commit -m "description" >> this saves the changes that 
                                 we added in last step
+#git checkout -b new_branch >> create a new branch
 
